@@ -24,13 +24,12 @@ Ensure you have the following installed on your machine:
 1. **Clone the Repository**  
    Open your terminal and run the following command to clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Kamranpathan98/bitessy_dashboard.git
    ```
-   Replace `<repository-url>` with the URL of the repository (e.g., `https://github.com/your-username/your-repo.git`).
-
+   
 2. **Navigate to the Project Directory**  
    ```bash
-   cd my-app
+   cd bitessy_dashboard
    ```
 
 3. **Install Dependencies**  
